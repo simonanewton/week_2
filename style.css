@@ -1,0 +1,108 @@
+* {
+    font-family: 'Sen', sans-serif;
+    /* font-size: 14px; */
+}
+
+body {
+    background-image: url("/assets/myImages/green-leaves.jpg");
+    background-size: cover;
+    background-position: center;
+    background-color: lightgray;
+}
+
+.block{
+    background-color: gray;
+    display: inline-block;
+    margin: 2% 0% 2% 0%;
+    padding: 2%;
+}
+
+.col-sm-12 .row {
+    padding: 0% 1% 0% 1%;
+}
+
+.sectionA {
+    background-color: white;
+    color: black;
+    text-align: justify;
+    padding: 3%;
+    border-right-width: 2%;
+    border-right-color: gray;
+    border-right-style: solid;
+    font-size: 16px;
+}
+
+.sectionB {
+    background-color: white;
+    color: black;
+    text-align: justify;
+    padding: 2%;
+    border-left-width: 2%;
+    border-left-color: gray;
+    border-left-style: solid;
+}
+
+.sectionB img {
+    background-color: white;
+    height: auto;
+    width: 100%;
+}
+
+.sectionC {
+    background-color: white;
+    color: black;
+    text-align: justify;
+    margin-top: 2%;
+    padding: 2%;
+}
+
+.sectionC ul {
+    padding: 0%;
+}
+
+.sectionC ul li {
+    display: inline-block;
+}
+
+.sectionC ul li:after { 
+    content: " \00b7"; 
+}
+
+.sectionC ul li:last-child:after { 
+    content: none; 
+}
+
+.sectionD {
+    margin-bottom: 25px;
+    padding: 30px;
+    height: 200px;
+    background-color: white;
+    color: black;
+}
+
+.sectionD img {
+    max-height: 150px;
+}
+
+.section {
+    margin-bottom: 25px;
+    padding: 30px;
+    height: 200px;
+    background-color: white;
+    color: black;
+}
+
+.section img {
+    max-height: 150px;
+}
+
+.sectionF {
+    padding: 30px;
+    height: 200px;
+    background-color: white;
+    color: black;
+}
+
+.sectionF img {
+    max-height: 150px;
+}
