@@ -1,0 +1,56 @@
+* {
+    font-family: 'Sen', sans-serif;
+}
+
+body {
+    background-image: url("/assets/myImages/green-leaves.jpg");
+    background-size: cover;
+}
+______________________________________
+
+.about-me {
+    font-size: 16px;
+}
+
+.my-image img {
+    height: auto;
+    width: 100%;
+}
+
+.countries ul {
+    padding: 0%;
+}
+
+.countries ul li {
+    display: inline-block;
+}
+
+.countries ul li:after { 
+    content: " \00b7"; 
+}
+
+.countries ul li:last-child:after { 
+    content: none; 
+}
+
+.countries a:link {
+    color: black;
+}
+
+.countries a:hover {
+    text-decoration: underline;
+}
+
+.countries a:visited {
+    color: black;
+}
+
+________________________________________
+
+.panels p {
+    font-size: 16px;
+}
+
+.panels img {
+    max-width: 30%;
+}
