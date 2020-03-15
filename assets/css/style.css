@@ -1,15 +1,15 @@
 * {
     font-family: 'Sen', sans-serif;
+    font-size: 16px;
 }
 
 body {
     background-image: url("/assets/myImages/green-leaves.jpg");
     background-size: cover;
 }
-______________________________________
 
 .about-me {
-    font-size: 16px;
+    font-size: 50px;
 }
 
 .my-image img {
@@ -45,12 +45,14 @@ ______________________________________
     color: black;
 }
 
-________________________________________
-
 .panels p {
     font-size: 16px;
 }
 
 .panels img {
-    max-width: 30%;
+    max-width: 15%;
+}
+
+.scratch:hover {
+    text-decoration: underline;
 }
