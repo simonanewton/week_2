@@ -4,13 +4,12 @@
 }
 
 body {
-    /* background-image: url("./assets/myImages/green-leaves.jpg"); */
-    background-image: url("/assets/myImages/green-leaves.jpg");
+    background-image: url("https://simonanewton.github.io/week_2/assets/myImages/green-leaves.jpg");
     background-size: cover;
 }
 
 .about-me {
-    font-size: 50px;
+    font-size: 16px;
 }
 
 .my-image img {
