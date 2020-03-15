@@ -4,7 +4,8 @@
 }
 
 body {
-    background-image: url("/assets/myImages/green-leaves.jpg");
+    /* background-image: url("./assets/myImages/green-leaves.jpg"); */
+    background-image: url("../../assets/myImages/green-leaves.jpg");
     background-size: cover;
 }
 
