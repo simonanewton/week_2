@@ -1,13 +1,22 @@
 # Unit 02 CSS and Bootstrap Homework: Responsive Portfolio
-<hr>
 
 ## Description
 
-???
+In this project I made my first website completely from scratch. In it I have three pages: a Homepage, Portfolio, and Contact page, which each have their own design and styling. I utilized the Bootstrap website for documentation that allowed me to style my elements with little CSS support. Through this I have achieved a significantly better understanding of Bootstrap components and how they work in an HTML document. I made use of the grid system from Bootstrap that allowed me to place elements in the appropriate place with complementary styling to go along with it. I feel much more comfortable with HTML, CSS, and Bootstrap now that I have finished and have a final product to show for it.
 
 ## Goals
 
-???
+* Create the following files files: `index.html`, `portfolio.html` and `contact.html`.
+
+* Using Bootstrap, develop your portfolio site with the following items:
+
+   * A navbar
+
+   * A responsive layout
+
+   * Responsive images
+
+* The Bootstrap portfolio should minimize the use of media queries.
 
 ## License
 
